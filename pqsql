@@ -1,0 +1,5 @@
+workday-assessment-app/
+│
+├── index.html       <-- Main HTML page
+├── style.css        <-- Styles
+└── script.js        <-- JS logic
